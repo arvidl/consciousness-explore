@@ -1,7 +1,7 @@
 # _Consciousness explore_
 
 
-> $\rightarrow$ Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness), [self-awareness](https://en.wikipedia.org/wiki/Self-awareness), and  [neural correlates of consciousness](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness)
+$\rightarrow$ Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness), [self-awareness](https://en.wikipedia.org/wiki/Self-awareness), and  [neural correlates of consciousness](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness)
 
 
 _Last updated: 01-Feb-2022_
