@@ -15,7 +15,7 @@ _Last updated: 01-Feb-2022_
 
 ## Computational consciousness:
 
-### Integrated Information Theory (IIT)
+### Integrated Information Theory ([IIT](https://en.wikipedia.org/wiki/Integrated_information_theory))
 
 - Fallon, Francis. Integrated Information Theory of Consciousness. Internet Encyclopedia of Philosphy  (https://iep.utm.edu/int-info)
 - Mayner, William GP, ..., [Tonini](https://en.wikipedia.org/wiki/Giulio_Tononi), Giulio. PyPhi: A toolbox for integrated information theory. PLOS Computational Biology, July 26, 2018 [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006343)]. Repositpry: https://github.com/wmayner/pyphi
