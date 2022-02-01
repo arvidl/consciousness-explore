@@ -36,7 +36,7 @@ _Last updated: 01-Feb-2022_
 
 - Jabr, Ferris. The Social Life of Forests: Trees appear to communicate and cooperate through subterranean networks of fungi. What are they sharing with one another? The New York Times Magazine, December 2, 2020  [[link](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html)]
 
-### [Orchestrated objective reduction](https://en.wikipedia.org/wiki/Orchestrated_objective_reduction)
+### Orchestrated objective reduction ([Orch OR](https://en.wikipedia.org/wiki/Orchestrated_objective_reduction))
 
 
 
