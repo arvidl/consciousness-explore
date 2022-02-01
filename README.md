@@ -29,7 +29,7 @@ _Last updated: 01-Feb-2022_
 
 ## Esoteric
 
-### Hyphal and mycelial consciousness
+### [Hyphal](https://en.wikipedia.org/wiki/Hypha) and [mycelial](https://en.wikipedia.org/wiki/Mycelium) consciousness
 
 - Money, Nicholas P. Hyphal and mycelial consciousness: the concept of the fungal mind. Fungal Biology 2021;125(4):257-259 [link](https://www.sciencedirect.com/science/article/pii/S1878614621000246)
 
