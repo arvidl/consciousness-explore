@@ -1,4 +1,4 @@
-# consciousness-explore
+# Consciousness explore - expressions of self-awareness
 
 
 
