@@ -9,6 +9,12 @@ Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Con
 -  Public repositories matching this topic... (https://github.com/topics/consciousness)
 
 
+## Computational consciousness:
+
+### Disorders of consciousness:
+
+- Coma Science Group MRI pipelines: Magnetic Resonance Imagery (MRI) preprocessing and analysis pipelines and tools for the study of disorders of consciousness. (https://github.com/lrq3000/csg_mri_pipelines). See also the GIGA-Consciousness MRI Protocol (https://github.com/lrq3000/mri_protocol)
+
 
 ## Relevant books:
 
