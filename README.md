@@ -1,10 +1,10 @@
 # consciousness-explore
 
-Last updated: 01-Feb-2022
+
 
 > **Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness) and [neural correlates of consciousness](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness)**
 
-Last updated: 01-Feb-2022
+_Last updated: 01-Feb-2022_
 
 
 ## General links:
