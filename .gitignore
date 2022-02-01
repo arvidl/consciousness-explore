@@ -3,3 +3,5 @@ __pycache__
 .ipynb_checkpoints
 .vscode
 .DS_Store
+code/PyPhi/pyphi.log
+code/PyPhi/__pyphi_cache__

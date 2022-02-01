@@ -1,0 +1,47 @@
+## Guidelines for the environmnet
+
+# Creating environment
+# conda env create -f environment_pyphi.yml
+
+# Activating the environment
+# conda activate pyphi-explore
+
+# To make a PYPHI-EXPLORE kernel:
+# python -m ipykernel install --user --name pyphi-explore --display-name "PYPHI-EXPLORE"
+
+# To update the pyphi-explore conda environment:
+# conda env update -f environment_pyphi.yml
+
+# To remove and reinstall the pyphi-explore environment (if installation problems):
+# conda deactivate
+# conda env remove -n pyphi-explore
+
+# Recreating the environment
+# conda env create -f environment_pyphi.yml
+
+
+name: pyphi-explore
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyter
+  - ipython
+  - ipykernel
+  - jupyterlab
+  - psutil
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - imageio
+  - scikit-learn
+  - scikit-image
+  - nilearn
+  - git
+  - pip
+  - pip:
+    # PYPHI https://pyphi.readthedocs.io/en/latest/installation.html
+    - pyphi
