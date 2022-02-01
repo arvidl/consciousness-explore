@@ -11,6 +11,12 @@ Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Con
 
 ## Computational consciousness:
 
+### Integrated Information Theory (IIT)
+
+- Fallon, Francis. Integrated Information Theory of Consciousness. Internet Encyclopedia of Philosphy  (https://iep.utm.edu/int-info)
+- Mayner, William GP, ..., Tonini, Giulio. PyPhi: A toolbox for integrated information theory. PLOS Computational Biology, July 26, 2018 [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006343)]. Repositpry: https://github.com/wmayner/pyphi
+; see also http://integratedinformationtheory.org/calculate.html
+
 ### Disorders of consciousness:
 
 - Coma Science Group MRI pipelines: Magnetic Resonance Imagery (MRI) preprocessing and analysis pipelines and tools for the study of disorders of consciousness. (https://github.com/lrq3000/csg_mri_pipelines). See also the GIGA-Consciousness MRI Protocol (https://github.com/lrq3000/mri_protocol)
