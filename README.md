@@ -1,8 +1,9 @@
-# Consciousness explore - expressions of self-awareness
+# _Consciousness explore_
 
 
+**Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness), [self-awareness](https://en.wikipedia.org/wiki/Self-awareness), and  [neural correlates of consciousness](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness)**
 
-> **Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness) and [neural correlates of consciousness](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness)**
+
 
 _Last updated: 01-Feb-2022_
 
@@ -14,15 +15,30 @@ _Last updated: 01-Feb-2022_
 
 ## Computational consciousness:
 
-### Integrated Information Theory (IIT)
+### Integrated Information Theory ([IIT](https://en.wikipedia.org/wiki/Integrated_information_theory))
 
 - Fallon, Francis. Integrated Information Theory of Consciousness. Internet Encyclopedia of Philosphy  (https://iep.utm.edu/int-info)
 - Mayner, William GP, ..., [Tonini](https://en.wikipedia.org/wiki/Giulio_Tononi), Giulio. PyPhi: A toolbox for integrated information theory. PLOS Computational Biology, July 26, 2018 [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006343)]. Repositpry: https://github.com/wmayner/pyphi
-; see also http://integratedinformationtheory.org/calculate.html
+; see also http://integratedinformationtheory.org/calculate.html and https://github.com/ELIFE-ASU/pyphi-spectrum (a wrapper for PyPhi that can be used to calculate all possible Phi values for a given subsystem)
 
 ### Disorders of consciousness:
 
 - Coma Science Group MRI pipelines: Magnetic Resonance Imagery (MRI) preprocessing and analysis pipelines and tools for the study of disorders of consciousness. (https://github.com/lrq3000/csg_mri_pipelines). See also the GIGA-Consciousness MRI Protocol (https://github.com/lrq3000/mri_protocol)
+
+
+
+## Esoteric
+
+### [Hyphal](https://en.wikipedia.org/wiki/Hypha) and [mycelial](https://en.wikipedia.org/wiki/Mycelium) consciousness
+
+- Money, Nicholas P. Hyphal and mycelial consciousness: the concept of the fungal mind. Fungal Biology 2021;125(4):257-259 [[link](https://www.sciencedirect.com/science/article/pii/S1878614621000246)]
+
+
+- Jabr, Ferris. The Social Life of Forests: Trees appear to communicate and cooperate through subterranean networks of fungi. What are they sharing with one another? The New York Times Magazine, December 2, 2020  [[link](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html)]
+
+### Orchestrated objective reduction ([Orch OR](https://en.wikipedia.org/wiki/Orchestrated_objective_reduction))
+
+- [Penrose[(https://en.wikipedia.org/wiki/Roger_Penrose), Roger. Shadows of the Mind: A Search for the Missing Science of Consciousness. Oxford University Press, 1994. See [[here](https://en.wikipedia.org/wiki/Shadows_of_the_Mind)] and [[here](https://www.youtube.com/watch?v=Co8v5-0znf0)]
 
 
 ## Relevant books:
