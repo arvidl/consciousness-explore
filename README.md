@@ -26,6 +26,12 @@ _Last updated: 01-Feb-2022_
 - Coma Science Group MRI pipelines: Magnetic Resonance Imagery (MRI) preprocessing and analysis pipelines and tools for the study of disorders of consciousness. (https://github.com/lrq3000/csg_mri_pipelines). See also the GIGA-Consciousness MRI Protocol (https://github.com/lrq3000/mri_protocol)
 
 
+
+## Esoteric
+
+- Jabr, Ferris. The Social Life of Forests: Trees appear to communicate and cooperate through subterranean networks of fungi. What are they sharing with one another? The New York Times Magazine, December 2, 2020  [[link](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html)]
+
+
 ## Relevant books:
 
 - [Chalmers](https://en.wikipedia.org/wiki/David_Chalmers), David. Reality+:  Virtual worlds and the problems of philosophy. Norton & Comp., 2022.  See also http://consc.net/reality 
