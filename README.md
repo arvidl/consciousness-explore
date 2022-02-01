@@ -31,7 +31,7 @@ _Last updated: 01-Feb-2022_
 
 ### Hyphal and mycelial consciousness
 
-- Money, Nicholas P. Hyphal and mycelial consciousness: the concept of the fungal mind. Fugal Biology 2021 [link](https://www.sciencedirect.com/science/article/pii/S1878614621000246)
+- Money, Nicholas P. Hyphal and mycelial consciousness: the concept of the fungal mind. Fungal Biology 2021;125(4):257-259 [link](https://www.sciencedirect.com/science/article/pii/S1878614621000246)
 
 
 - Jabr, Ferris. The Social Life of Forests: Trees appear to communicate and cooperate through subterranean networks of fungi. What are they sharing with one another? The New York Times Magazine, December 2, 2020  [[link](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html)]
