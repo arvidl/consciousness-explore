@@ -24,8 +24,10 @@ _Initiated: 01-Feb-2022_ (Last updated: 20220202)
 ### Consciousness and deep learning
 
 - Krauss, Patrick and Maier, Andreas. Will We Ever Have Conscious Machines? Front Comput Neurosci, December 22, 2020 [[link](https://www.frontiersin.org/articles/10.3389/fncom.2020.556544/full)]
-- 
-- 
+- [Dehaene](https://no.wikipedia.org/wiki/Stanislas_Dehaene), Stanislas; Lau, Hakwan; Kouider, Sid. What is consciousness, and could machines have it? Science 2017;358(6362):486-492. [[link](https://www.science.org/doi/10.1126/science.aan8871)]
+
+
+
 ### Disorders of consciousness
 
 - Coma Science Group MRI pipelines: Magnetic Resonance Imagery (MRI) preprocessing and analysis pipelines and tools for the study of disorders of consciousness. (https://github.com/lrq3000/csg_mri_pipelines). See also the GIGA-Consciousness MRI Protocol (https://github.com/lrq3000/mri_protocol)
