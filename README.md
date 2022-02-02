@@ -5,7 +5,7 @@
 
 
 
-_Initiated: 01-Feb-2022_ (Last updated: 20220202)
+_Initiated: February 1, 2022_ (Last updated: 20220202)
 
 
 ## General links:
