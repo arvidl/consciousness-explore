@@ -21,6 +21,11 @@ _Initiated: 01-Feb-2022_ (Last updated: 20220202)
 - Mayner, William GP, ..., [Tonini](https://en.wikipedia.org/wiki/Giulio_Tononi), Giulio. PyPhi: A toolbox for integrated information theory. PLOS Computational Biology, July 26, 2018 [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006343)]. Repositpry: https://github.com/wmayner/pyphi
 ; see also http://integratedinformationtheory.org/calculate.html and https://github.com/ELIFE-ASU/pyphi-spectrum (a wrapper for PyPhi that can be used to calculate all possible Phi values for a given subsystem)
 
+### Consciousness and deep learning
+
+- Krauss, Patrick and Maier, Andreas. Will We Ever Have Conscious Machines? Front Comput Neurosci, December 22, 2020 [[link](https://www.frontiersin.org/articles/10.3389/fncom.2020.556544/full)]
+- 
+- 
 ### Disorders of consciousness
 
 - Coma Science Group MRI pipelines: Magnetic Resonance Imagery (MRI) preprocessing and analysis pipelines and tools for the study of disorders of consciousness. (https://github.com/lrq3000/csg_mri_pipelines). See also the GIGA-Consciousness MRI Protocol (https://github.com/lrq3000/mri_protocol)
@@ -53,8 +58,11 @@ _Initiated: 01-Feb-2022_ (Last updated: 20220202)
 
 - Chalmers, David. "The Hard Problem of Consciousness", Jan 29, 2020; Lex Fridman Podcast #69 (https://www.youtube.com/watch?v=LW59lMvxmY4)
 - Seth, Anil. "Consciousness: Neuroscience, Perception and Hallucination", Dec 17, 2021 (https://www.youtube.com/watch?v=cCyapf0E5ns)
+- [Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), Yoshua. "From Deep Learning to Consciousness", Jan 6, 2020; NeurIPS 2019 Robin.ly Interview (https://www.youtube.com/watch?v=lat0jSpNQoM)
+
 
 
 ## Misc.
 
 - Lundervold, Arvid. On consciousness, resting state fMRI, and neurodynamics. Nonlinear Biomedical Physics 2010;4(S9) [[link](https://nonlinearbiomedphys.biomedcentral.com/articles/10.1186/1753-4631-4-S1-S9)]
+- Lundervold, Alexander S and Lundervold, Arvid. An overview of deep learning in medical imaging focusing on MRI. Zeitschrift fur Medizinische Physik 2019;29(2):102-127. [[link](https://www.sciencedirect.com/science/article/pii/S0939388918301181)]  See also https://www.dgmp.de/de-DE/307/autorenpreis-der-zmp
