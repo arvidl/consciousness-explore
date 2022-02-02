@@ -13,7 +13,7 @@ _Last updated: 01-Feb-2022_
 -  Public repositories matching this topic... (https://github.com/topics/consciousness)
 
 
-## Computational consciousness:
+## Computational consciousness
 
 ### Integrated Information Theory ([IIT](https://en.wikipedia.org/wiki/Integrated_information_theory))
 
@@ -21,7 +21,7 @@ _Last updated: 01-Feb-2022_
 - Mayner, William GP, ..., [Tonini](https://en.wikipedia.org/wiki/Giulio_Tononi), Giulio. PyPhi: A toolbox for integrated information theory. PLOS Computational Biology, July 26, 2018 [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006343)]. Repositpry: https://github.com/wmayner/pyphi
 ; see also http://integratedinformationtheory.org/calculate.html and https://github.com/ELIFE-ASU/pyphi-spectrum (a wrapper for PyPhi that can be used to calculate all possible Phi values for a given subsystem)
 
-### Disorders of consciousness:
+### Disorders of consciousness
 
 - Coma Science Group MRI pipelines: Magnetic Resonance Imagery (MRI) preprocessing and analysis pipelines and tools for the study of disorders of consciousness. (https://github.com/lrq3000/csg_mri_pipelines). See also the GIGA-Consciousness MRI Protocol (https://github.com/lrq3000/mri_protocol)
 
@@ -38,10 +38,10 @@ _Last updated: 01-Feb-2022_
 
 ### Orchestrated objective reduction ([Orch OR](https://en.wikipedia.org/wiki/Orchestrated_objective_reduction))
 
-- [Penrose[(https://en.wikipedia.org/wiki/Roger_Penrose), Roger. Shadows of the Mind: A Search for the Missing Science of Consciousness. Oxford University Press, 1994. See [[here](https://en.wikipedia.org/wiki/Shadows_of_the_Mind)] and [[here](https://www.youtube.com/watch?v=Co8v5-0znf0)]
+- [Penrose](https://en.wikipedia.org/wiki/Roger_Penrose), Roger. Shadows of the Mind: A Search for the Missing Science of Consciousness. Oxford University Press, 1994. See [[here](https://en.wikipedia.org/wiki/Shadows_of_the_Mind)] and [[here](https://www.youtube.com/watch?v=Co8v5-0znf0)]
 
 
-## Relevant books:
+## Relevant books
 
 - [Chalmers](https://en.wikipedia.org/wiki/David_Chalmers), David. Reality+:  Virtual worlds and the problems of philosophy. Norton & Comp., 2022.  See also http://consc.net/reality 
 - [Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins), Jeff. A Thousand Brains: A New Theory of Intelligence. Basic Books, 2021.   See also [GatesNotes](https://www.gatesnotes.com/Books/A-Thousand-Brains) and [Numenta](https://numenta.com/a-thousand-brains-by-jeff-hawkins)
@@ -49,7 +49,12 @@ _Last updated: 01-Feb-2022_
 
 
 
-## Relevant videos:
+## Relevant videos
 
 - Chalmers, David. "The Hard Problem of Consciousness", Jan 29, 2020; Lex Fridman Podcast #69 (https://www.youtube.com/watch?v=LW59lMvxmY4)
 - Seth, Anil. "Consciousness: Neuroscience, Perception and Hallucination", Dec 17, 2021 (https://www.youtube.com/watch?v=cCyapf0E5ns)
+
+
+## Misc.
+
+- Lundervold, Arvid. On consciousness, resting state fMRI, and neurodynamics. Nonlinear Biomedical Physics 2010;4(S9) [[link](https://nonlinearbiomedphys.biomedcentral.com/articles/10.1186/1753-4631-4-S1-S9)]
