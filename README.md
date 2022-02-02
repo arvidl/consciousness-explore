@@ -23,8 +23,10 @@ _Initiated: 01-Feb-2022_ (Last updated: 20220202)
 
 ### Consciousness and deep learning
 
-- Krauss, Patrick and Maier, Andreas. Will We Ever Have Conscious Machines? Front Comput Neurosci, December 22, 2020 [[link](https://www.frontiersin.org/articles/10.3389/fncom.2020.556544/full)]
 - [Dehaene](https://no.wikipedia.org/wiki/Stanislas_Dehaene), Stanislas; Lau, Hakwan; Kouider, Sid. What is consciousness, and could machines have it? Science 2017;358(6362):486-492. [[link](https://www.science.org/doi/10.1126/science.aan8871)]
+- Krauss, Patrick and Maier, Andreas. Will We Ever Have Conscious Machines? Front Comput Neurosci, December 22, 2020 [[link](https://www.frontiersin.org/articles/10.3389/fncom.2020.556544/full)]
+- Langdon, Angela; Botvinick, Matthew; Nakahara, Hiroyuki et al. Meta-learning, social cognition and consciousness in brains and machines. Neural Networks 2022;145:80-89. [[link](https://www.sciencedirect.com/science/article/pii/S0893608021003956)]
+- VanRullen, Rufin and Kanai, Ryota. Deep learning and the Global Workspace Theory. Trends in Neurosciences  2021;44(9):692-704. [[link](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(21)00077-1)] and at https://arxiv.org/abs/2012.10390
 
 
 
