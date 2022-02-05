@@ -13,8 +13,10 @@ hemodynamic model that embeds the _Balloon–Windkessel model_ (Buxton et al., 1
 
 ![img](assets/hemodynamic_model.png)
 
+
+
+#### Takuya Ito implementation of Friston KJ et al. Dynamic causal modelling. Neuroimage 2003;19:1273-1302.
 ```
-Takuya Ito implementation of Friston KJ et al. Dynamic causal modelling. Neuroimage 2003;19:1273-1302.
 def balloonWindkessel(z, sampling_rate, alpha=0.32, kappa=0.65, gamma=0.41, tau=0.98, rho=0.34, V0=0.02):
     """
     Computes the Balloon-Windkessel transformed BOLD signal
