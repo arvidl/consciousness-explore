@@ -5,7 +5,7 @@
 
 
 
-_Initiated: February 1, 2022_ (Last updated: 20220202)
+_Initiated: February 1, 2022_ (Last updated: 20220205)
 
 
 ## General links:
@@ -37,6 +37,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220202)
 ### Neuroenergetics of consiousness
 
 - Chen, Yali and Zhang, Jun. How Energy Supports Our Brain to Yield Consciousness: Insights From Neuroimaging Based on the Neuroenergetics Hypothesis. Front Syst Neurosci 2021; 06 July [[link](https://www.frontiersin.org/articles/10.3389/fnsys.2021.648860/full)] [[pdf](https://www.frontiersin.org/articles/10.3389/fnsys.2021.648860/pdf)]
+- Ito, Taku. Modeling hemodynamic response functions of the BOLD signal using Windkessel-Balloon model (https://github.com/ito-takuya/HemodynamicResponseModeling)
 
 ## Esoteric
 
