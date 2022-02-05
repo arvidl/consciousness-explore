@@ -34,7 +34,9 @@ _Initiated: February 1, 2022_ (Last updated: 20220202)
 
 - Coma Science Group MRI pipelines: Magnetic Resonance Imagery (MRI) preprocessing and analysis pipelines and tools for the study of disorders of consciousness. (https://github.com/lrq3000/csg_mri_pipelines). See also the GIGA-Consciousness MRI Protocol (https://github.com/lrq3000/mri_protocol)
 
+### Neuroenergetics of consiousness
 
+- Chen, Yali and Zhang, Jun. How Energy Supports Our Brain to Yield Consciousness: Insights From Neuroimaging Based on the Neuroenergetics Hypothesis. Front Syst Neurosci 2021; 06 July [[link](https://www.frontiersin.org/articles/10.3389/fnsys.2021.648860/full)] [[pdf](https://www.frontiersin.org/articles/10.3389/fnsys.2021.648860/pdf)]
 
 ## Esoteric
 
