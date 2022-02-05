@@ -11,7 +11,7 @@ Based on Friston KJ, Harrison L, Penny W. Dynamic causal modelling. Neuroimage 2
 The remaining state variables of each region are biophysical states engendering the BOLD signal and mediate the
 translation of neuronal activity into hemodynamic responses. Hemodynamic states are a function of, and only of,
 the neuronal state of each region. These equations have been described elsewhere (Friston et al., 2000) and constitute a
-hemodynamic model that embeds the _Balloon–Windkessel model_ (Buxton et al., 1998; Mandeville et al., 1999). 
+hemodynamic model that embeds the _Balloon–Windkessel model_ (Buxton et al., 1998; Mandeville et al., 1999).
 
 ![img](assets/hemodynamic_model.png)
 
@@ -47,3 +47,10 @@ def balloonWindkessel(z, sampling_rate, alpha=0.32, kappa=0.65, gamma=0.41, tau=
 
 The hrf is the filter that couples neural responses to the metabolic-related changes in the MRI signal. hrf models are simply phenomenological.
 - https://nilearn.github.io/auto_examples/04_glm_first_level/plot_hrf.html
+
+## rsHRF: A toolbox for resting-state HRF estimation and deconvolution
+
+Resting state HRF estimation from BOLD-fMRI signal
+- http://bids-apps.neuroimaging.io/rsHRF
+
+![img](https://raw.githubusercontent.com/guorongwu/rsHRF/master/docs/BOLD_HRF.png)
