@@ -11,3 +11,4 @@ translation of neuronal activity into hemodynamic responses. Hemodynamic states 
 the neuronal state of each region. These equations have been described elsewhere (Friston et al., 2000) and constitute a
 hemodynamic model that embeds the _Balloon–Windkessel model_ (Buxton et al., 1998; Mandeville et al., 1999). 
 
+![img](assets/hemodynamic_model.png)
