@@ -41,3 +41,9 @@ def balloonWindkessel(z, sampling_rate, alpha=0.32, kappa=0.65, gamma=0.41, tau=
     q:          deoxyhemoglobin content
     """
 ```
+
+
+## Nilearn: Example of hemodynamic response functions.
+
+The hrf is the filter that couples neural responses to the metabolic-related changes in the MRI signal. hrf models are simply phenomenological.
+- https://nilearn.github.io/auto_examples/04_glm_first_level/plot_hrf.html
