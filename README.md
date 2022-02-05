@@ -37,7 +37,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220205)
 ### Neuroenergetics of consiousness
 
 - Chen, Yali and Zhang, Jun. How Energy Supports Our Brain to Yield Consciousness: Insights From Neuroimaging Based on the Neuroenergetics Hypothesis. Front Syst Neurosci 2021; 06 July [[link](https://www.frontiersin.org/articles/10.3389/fnsys.2021.648860/full)] [[pdf](https://www.frontiersin.org/articles/10.3389/fnsys.2021.648860/pdf)]
-- Ito, Taku. Modeling hemodynamic response functions of the BOLD signal using Windkessel-Balloon model (https://github.com/ito-takuya/HemodynamicResponseModeling). Based on Friston Karl J; Harrison, ; Penny W. Dynamic causal modeling. Neuroimage 2003;19(4):1273-12302  [[link](https://pubmed.ncbi.nlm.nih.gov/12948688)] [[pdf](https://www.fil.ion.ucl.ac.uk/~karl/Dynamic%20causal%20modelling.pdf)]
+- Ito, Taku. Modeling hemodynamic response functions of the BOLD signal using Windkessel-Balloon model (https://github.com/ito-takuya/HemodynamicResponseModeling). Based on Friston, Karl J; Harrison, L; Penny W. Dynamic causal modeling. Neuroimage 2003;19(4):1273-12302  [[link](https://pubmed.ncbi.nlm.nih.gov/12948688)] [[pdf](https://www.fil.ion.ucl.ac.uk/~karl/Dynamic%20causal%20modelling.pdf)]
 
 ## Esoteric
 
