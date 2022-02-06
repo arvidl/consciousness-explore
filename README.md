@@ -4,9 +4,9 @@
 **Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness), [self-awareness](https://en.wikipedia.org/wiki/Self-awareness), and  [neural correlates of consciousness](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness)**
 
  
-_Initiated: February 1, 2022_ (Last updated: 20220205)
+_Initiated: February 1, 2022_ (Last updated: 20220206)
 
-**Naive credo**: (i) _Non-mathematical_: Make phenomena and processes a conscious experience ("bevisstgjøre prosesser"); (ii) _Computational_: Representation learning / learning representations and relationships. [Inspired by [Gallileo's error](https://www.philipgoffphilosophy.com/books.html)]
+**Naive credo**: (i) Make phenomena, processes and values a conscious experience ("bevisstgjøre prosesser"); (ii) Representation learning / learning representations and relationships. [Inspired by [Gallileo's error](https://www.philipgoffphilosophy.com/books.html) and [The Conscious Prior](https://arxiv.org/abs/1709.08568)] 
 
 
 ## General links:
