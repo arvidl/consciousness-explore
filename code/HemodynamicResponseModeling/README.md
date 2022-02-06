@@ -45,12 +45,12 @@ def balloonWindkessel(z, sampling_rate, alpha=0.32, kappa=0.65, gamma=0.41, tau=
 
 ## Nilearn: Example of hemodynamic response functions.
 
-The hrf is the filter that couples neural responses to the metabolic-related changes in the MRI signal. hrf models are simply phenomenological.
+The HRF is the filter that couples neural responses to the metabolic-related changes in the MRI signal. HRF models are simply phenomenological.
 - https://nilearn.github.io/auto_examples/04_glm_first_level/plot_hrf.html
 
 ## rsHRF: A toolbox for resting-state HRF estimation and deconvolution
 
-Resting state HRF estimation from BOLD-fMRI signal
 - http://bids-apps.neuroimaging.io/rsHRF
+>Resting state HRF estimation from BOLD-fMRI signal. This toolbox is aimed to retrieve the onsets of pseudo-events triggering an hemodynamic response from resting state fMRI BOLD voxel-wise signal. It is based on [point process](https://en.wikipedia.org/wiki/Point_process) theory, and fits a model to retrieve the optimal lag between the events and the HRF onset, as well as the HRF shape, using either the canonical shape with two derivatives, or a (smoothed) Finite Impulse Response.
 
 ![img](https://raw.githubusercontent.com/guorongwu/rsHRF/master/docs/BOLD_HRF.png)
