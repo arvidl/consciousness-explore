@@ -83,5 +83,5 @@ _Initiated: February 1, 2022_ (Last updated: 20220206)
 (and source of origin)
 
 - **Hemodynamic Response Modeling**  [[link](./code/HemodynamicResponseModeling)]
-- **PyPhi (implementing IIT)** exploration [[link](./code/PyPhi)]
+- **[PyPhi](https://github.com/wmayner/pyphi) (library for computing integrated information (𝚽), and the associated quantities and objects)** exploration [[link](./code/PyPhi)]
 
