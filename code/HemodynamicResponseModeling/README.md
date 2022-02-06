@@ -57,3 +57,5 @@ The HRF is the filter that couples neural responses to the metabolic-related cha
 
 
 ![img](https://raw.githubusercontent.com/guorongwu/rsHRF/master/docs/BOLD_HRF.png)
+
+
