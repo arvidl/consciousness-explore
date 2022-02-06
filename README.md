@@ -79,8 +79,8 @@ _Initiated: February 1, 2022_ (Last updated: 20220206)
 
 
 
-## Topcis with code
+## Topcis with code (and links to creators)
 
-- Hemodynamic Response Modeling  [[link](./code/HemodynamicResponseModeling)]
-- PyPhi exploration [[link](./code/PhyPhi)]
-- Hemodynamic Response Modeling  [[link](./code/HemodynamicResponseModeling)]
+- **Hemodynamic Response Modeling**  [[link](./code/HemodynamicResponseModeling)]
+- **PyPhi (implementing IIT)** exploration [[link](./code/PyPhi)]
+
