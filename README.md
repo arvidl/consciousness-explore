@@ -79,7 +79,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220206)
 
 
 
-## Topcis with code 
+## Topics with code 
 (and source of origin)
 
 - **Hemodynamic Response Modeling**  [[link](./code/HemodynamicResponseModeling)]
