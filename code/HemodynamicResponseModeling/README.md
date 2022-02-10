@@ -50,6 +50,9 @@ The HRF is the filter that couples neural responses to the metabolic-related cha
 
 ## rsHRF: A toolbox for resting-state HRF estimation and deconvolution
 
+- Guo-Rong Wu, Nigel Colenbier, Sofie Van Den Bossche, Kenzo Clauw, Amogh Johri, Madhur Tandon, Daniele Marinazzo. “rsHRF: A Toolbox for Resting-State HRF Estimation and Deconvolution.” Neuroimage, 2021, 244: 118591. DOI:10.1016/j.neuroimage.2021.118591. [[link](https://www.sciencedirect.com/science/article/pii/S1053811921008648)]
+
+
 - http://bids-apps.neuroimaging.io/rsHRF
 >Resting state HRF estimation from BOLD-fMRI signal. This toolbox is aimed to retrieve the onsets of pseudo-events triggering an hemodynamic response from resting state fMRI BOLD voxel-wise signal. It is based on [point process](https://en.wikipedia.org/wiki/Point_process) theory, and fits a model to retrieve the optimal lag between the events and the HRF onset, as well as the HRF shape, using either the canonical shape with two derivatives, or a (smoothed) Finite Impulse Response.
 >
