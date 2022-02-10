@@ -50,7 +50,7 @@ The HRF is the filter that couples neural responses to the metabolic-related cha
 
 ## rsHRF: A toolbox for resting-state HRF estimation and deconvolution
 
-- Guo-Rong Wu, Nigel Colenbier, Sofie Van Den Bossche, Kenzo Clauw, Amogh Johri, Madhur Tandon, Daniele Marinazzo. “rsHRF: A Toolbox for Resting-State HRF Estimation and Deconvolution.” Neuroimage, 2021, 244: 118591. DOI:10.1016/j.neuroimage.2021.118591. [[link](https://www.sciencedirect.com/science/article/pii/S1053811921008648)]
+- Guo-Rong Wu, Nigel Colenbier, Sofie Van Den Bossche, Kenzo Clauw, Amogh Johri, Madhur Tandon, Daniele Marinazzo. “rsHRF: A Toolbox for Resting-State HRF Estimation and Deconvolution.” Neuroimage, 2021, 244: 118591. [[link](https://www.sciencedirect.com/science/article/pii/S1053811921008648)]
 
 
 - http://bids-apps.neuroimaging.io/rsHRF
