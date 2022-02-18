@@ -4,7 +4,7 @@
 **Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness), [self-awareness](https://en.wikipedia.org/wiki/Self-awareness), and  consciousness in [brain](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness) and [machine](https://en.wikipedia.org/wiki/Artificial_consciousness)**
 
  
-_Initiated: February 1, 2022_ (Last updated: 20220210)
+_Initiated: February 1, 2022_ (Last updated: 20220218)
 
 **Naive credo**: (i) Make phenomena (e.g. `consciousness'), processes and values a conscious experience ("bevisstgjøre prosesser");<br> (ii) Representation learning, attention and relationships. [Inspired by [Gallileo's Error](https://www.philipgoffphilosophy.com/books.html), [The Conscious Prior](https://arxiv.org/abs/1709.08568), and ... [Could Machines Have It?](https://www.science.org/doi/10.1126/science.aan8871)] 
 
@@ -70,6 +70,10 @@ _Initiated: February 1, 2022_ (Last updated: 20220210)
 - [Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), Yoshua. "From Deep Learning to Consciousness", Jan 6, 2020; NeurIPS 2019 Robin.ly Interview (https://www.youtube.com/watch?v=lat0jSpNQoM)
 
 
+## Relevant podcasts
+
+- [Goff](https://www.philipgoffphilosophy.com), Phiip &  [Frankish](https://www.keithfrankish.com), Keith: "Mind Chat" (https://www.youtube.com/c/MindChat). See also [[here](https://philosophybreak.com/articles/mind-chat-philip-goff-keith-frankish-why-we-are-conscious)].
+- 
 
 ## Misc.
 
