@@ -79,8 +79,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220218)
 
 - Ito, Takuya; Yang, Guangyu R; Laurent, Patryk; Schultz, Douglas H; Cole, Michael W. Constructing neural network models from brain data reveals representational transformations linked to adaptive behavior. Nature Communications 2022;13:673 [[link](https://www.nature.com/articles/s41467-022-28323-7)] [[code](https://github.com/ito-takuya/sr_enn)] [[data](https://openneuro.org/datasets/ds003701/versions/1.0.1) in BIDS]
 - Lundervold, Arne. Electroencephalographic changes in a case of acute cerebral anoxia unconscious for about three years. Electroencephalogr Clin Neurophysiol 1954;6(2):311-315. [[link](https://www.sciencedirect.com/science/article/abs/pii/0013469454900346?via%3Dihub)] [[first page](https://www.sciencedirect.com/sdfe/pdf/download/eid/1-s2.0-0013469454900346/first-page-pdf)] 
-     ![img](./assets/Arne_Lundervold_Consciousness.png)
-     <img src="./assets/Arne_Lundervold_Consciousness.png" width="128"/>
+     <img src="assets/Arne_Lundervold_Consciousness.png" width="600"/>
 - Lundervold, Arvid. On consciousness, resting state fMRI, and neurodynamics. Nonlinear Biomedical Physics 2010;4(S9) [[link](https://nonlinearbiomedphys.biomedcentral.com/articles/10.1186/1753-4631-4-S1-S9)]
 - Lundervold, Alexander S and Lundervold, Arvid. An overview of deep learning in medical imaging focusing on MRI. Zeitschrift fur Medizinische Physik 2019;29(2):102-127. [[link](https://www.sciencedirect.com/science/article/pii/S0939388918301181)]  See also https://www.dgmp.de/de-DE/307/autorenpreis-der-zmp
 
