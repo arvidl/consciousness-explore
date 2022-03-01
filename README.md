@@ -74,6 +74,9 @@ _Initiated: February 1, 2022_ (Last updated: 20220221)
 
 - [Goff](https://www.philipgoffphilosophy.com), Phiip &  [Frankish](https://www.keithfrankish.com), Keith: "Mind Chat" (https://www.youtube.com/c/MindChat). See also [[here](https://philosophybreak.com/articles/mind-chat-philip-goff-keith-frankish-why-we-are-conscious)].
 
+## Relevant fora
+
+- HBF Brain and Consciousness (HBF is University of Bergen's research interest group on brain and consciousness) - https://padlet.com/magdadumitru/427b4m9by7e00tpl
 
 ## Misc.
 
