@@ -53,7 +53,9 @@ _Initiated: February 1, 2022_ (Last updated: 20220321)
 
 - [Penrose](https://en.wikipedia.org/wiki/Roger_Penrose), Roger. Shadows of the Mind: A Search for the Missing Science of Consciousness. Oxford University Press, 1994. See [[here](https://en.wikipedia.org/wiki/Shadows_of_the_Mind)] and [[here](https://www.youtube.com/watch?v=Co8v5-0znf0)]
 
-### Fractals (https://en.wikipedia.org/wiki/Fractal)
+### Fractals 
+ - https://en.wikipedia.org/wiki/Fractal
+ - https://en.wikipedia.org/wiki/Box_counting
 
 ## Relevant books
 
