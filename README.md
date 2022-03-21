@@ -55,7 +55,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220321)
 
 ### Fractals 
  - https://en.wikipedia.org/wiki/Fractal
- - https://en.wikipedia.org/wiki/Box_counting
+ - Luppia AI, Craiga MM, Coppolaa P et al. Preserved fractal character of structural brain networks is associated with covert consciousness after severe brain injury. NeuroImage: Clinical 2021;30:102682 [link]  (using [box-counting](https://en.wikipedia.org/wiki/Box_counting)]
 
 ## Relevant books
 
