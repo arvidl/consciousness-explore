@@ -80,7 +80,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220324)
 
 ## Relevant podcasts
 
-- [Goff](https://www.philipgoffphilosophy.com), Phiip &  [Frankish](https://www.keithfrankish.com), Keith: "Mind Chat" (https://www.youtube.com/c/MindChat). See also [[here](https://philosophybreak.com/articles/mind-chat-philip-goff-keith-frankish-why-we-are-conscious)].
+- [Goff](https://www.philipgoffphilosophy.com), Philip &  [Frankish](https://www.keithfrankish.com), Keith: "Mind Chat" (https://www.youtube.com/c/MindChat). See also [[here](https://philosophybreak.com/articles/mind-chat-philip-goff-keith-frankish-why-we-are-conscious)].
 
 ## Relevant fora
 
