@@ -4,7 +4,7 @@
 **Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness), [self-awareness](https://en.wikipedia.org/wiki/Self-awareness), and  consciousness in [brain](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness) and [machine](https://en.wikipedia.org/wiki/Artificial_consciousness)**
 
  
-_Initiated: February 1, 2022_ (Last updated: 20220321)
+_Initiated: February 1, 2022_ (Last updated: 20220323)
 
 **Naive credo**: (i) Make phenomena (e.g. `consciousness'), processes and values a conscious experience ("bevisstgjøre prosesser");<br> (ii) Representation learning, attention and relationships. [Inspired by [Gallileo's Error](https://www.philipgoffphilosophy.com/books.html), [The Conscious Prior](https://arxiv.org/abs/1709.08568), and ... [Could Machines Have It?](https://www.science.org/doi/10.1126/science.aan8871)] 
 
@@ -60,6 +60,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220321)
 ## Relevant books
 
 - [Chalmers](https://en.wikipedia.org/wiki/David_Chalmers), David. Reality+:  Virtual worlds and the problems of philosophy. Norton & Comp., 2022.  See also http://consc.net/reality 
+- Ginsburg, Simona and [Jablonka](https://en.wikipedia.org/wiki/Eva_Jablonka), Eva. [Picturing the Mind](https://mitpress.mit.edu/books/picturing-mind): Consciousness through the Lens of Evolution. MIT Press, 2022. See also [[The origin of consciousness](https://iai.tv/articles/the-origin-of-consciousness-auid-1865)]
 - [Goff](https://en.wikipedia.org/wiki/Philip_Goff_(philosopher)), Philip. Gallileo's Error: Foundations for a New Science of Consciousness. Pantheon 2019 [[philsophynow](https://philosophynow.org/issues/135/Galileos_Error_by_Philip_Goff) "... a defence of [panpsychism](https://en.wikipedia.org/wiki/Panpsychism)"] [[book homepage](https://www.philipgoffphilosophy.com/books.html)]
 - [Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins), Jeff. A Thousand Brains: A New Theory of Intelligence. Basic Books, 2021.   See also [GatesNotes](https://www.gatesnotes.com/Books/A-Thousand-Brains) and [Numenta](https://numenta.com/a-thousand-brains-by-jeff-hawkins)
 - [Seth](https://en.wikipedia.org/wiki/Anil_Seth), Anil. Being You: A New Science of Consciousness. Faber, 2021. See also Azeem Azhar' Exponential View Podcast "What Studying Consciousness Can Reveal about AI and the Metaverse" (with Anil Seth) [[here](https://hbr.org/2019/04/podcast-exponential-view)]
