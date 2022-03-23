@@ -93,6 +93,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220323)
      <img src="assets/Arne_Lundervold_Consciousness.png" width="900"/>
 - Lundervold, Arvid. On consciousness, resting state fMRI, and neurodynamics. Nonlinear Biomedical Physics 2010;4(S9) [[link](https://nonlinearbiomedphys.biomedcentral.com/articles/10.1186/1753-4631-4-S1-S9)]
 - Lundervold, Alexander S and Lundervold, Arvid. An overview of deep learning in medical imaging focusing on MRI. Zeitschrift fur Medizinische Physik 2019;29(2):102-127. [[link](https://www.sciencedirect.com/science/article/pii/S0939388918301181)]  See also https://www.dgmp.de/de-DE/307/autorenpreis-der-zmp
+- Lundervold, Arvid. Elements of consciousness - some eclectic perspectives. HBF seminar, March 24, 2022  [[link to slides](https://www.youtube.com/watch?v=mhjuuHl6qHM)]
 
 
 
