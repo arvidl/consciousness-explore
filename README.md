@@ -4,7 +4,7 @@
 **Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness), [self-awareness](https://en.wikipedia.org/wiki/Self-awareness), and  consciousness in [brain](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness) and [machine](https://en.wikipedia.org/wiki/Artificial_consciousness)**
 
  
-_Initiated: February 1, 2022_ (Last updated: 20220323)
+_Initiated: February 1, 2022_ (Last updated: 20220324)
 
 **Naive credo**: (i) Make phenomena (e.g. `consciousness'), processes and values a conscious experience ("bevisstgjøre prosesser");<br> (ii) Representation learning, attention and relationships. [Inspired by [Gallileo's Error](https://www.philipgoffphilosophy.com/books.html), [The Conscious Prior](https://arxiv.org/abs/1709.08568), and ... [Could Machines Have It?](https://www.science.org/doi/10.1126/science.aan8871)] 
 
@@ -93,7 +93,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220323)
      <img src="assets/Arne_Lundervold_Consciousness.png" width="900"/>
 - Lundervold, Arvid. On consciousness, resting state fMRI, and neurodynamics. Nonlinear Biomedical Physics 2010;4(S9) [[link](https://nonlinearbiomedphys.biomedcentral.com/articles/10.1186/1753-4631-4-S1-S9)]
 - Lundervold, Alexander S and Lundervold, Arvid. An overview of deep learning in medical imaging focusing on MRI. Zeitschrift fur Medizinische Physik 2019;29(2):102-127. [[link](https://www.sciencedirect.com/science/article/pii/S0939388918301181)]  See also https://www.dgmp.de/de-DE/307/autorenpreis-der-zmp
-- Lundervold, Arvid. Elements of consciousness - some eclectic perspectives. HBF seminar, March 24, 2022  [[link to slides](https://www.youtube.com/watch?v=mhjuuHl6qHM)]
+- Lundervold, Arvid. Elements of consciousness - some eclectic perspectives. HBF seminar, March 24, 2022  [[link to slides](https://docs.google.com/presentation/d/e/2PACX-1vTvLfxaHHsnOLUBGkaoLNMvAhtMdHCUYkaTTq-4yKD1LtOGvOoewnWiY8Ub6o4trVWeend1ghVZlzBn/pub?start=false&loop=false&delayms=3000)]
 
 
 
