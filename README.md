@@ -60,7 +60,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220323)
 ## Relevant books
 
 - [Chalmers](https://en.wikipedia.org/wiki/David_Chalmers), David. Reality+:  Virtual worlds and the problems of philosophy. Norton & Comp., 2022.  See also http://consc.net/reality 
-- Ginsburg, Simona and [Jablonka](https://en.wikipedia.org/wiki/Eva_Jablonka), Eva. [Picturing the Mind](https://mitpress.mit.edu/books/picturing-mind): Consciousness through the Lens of Evolution. MIT Press, 2022. See also [[The origin of consciousness](https://iai.tv/articles/the-origin-of-consciousness-auid-1865)]
+- [Ginsburg](https://mitpress.mit.edu/contributors/simona-ginsburg), Simona and [Jablonka](https://en.wikipedia.org/wiki/Eva_Jablonka), Eva. [Picturing the Mind](https://mitpress.mit.edu/books/picturing-mind): Consciousness through the Lens of Evolution. MIT Press, 2022. See also [[The origin of consciousness](https://iai.tv/articles/the-origin-of-consciousness-auid-1865)]
 - [Goff](https://en.wikipedia.org/wiki/Philip_Goff_(philosopher)), Philip. Gallileo's Error: Foundations for a New Science of Consciousness. Pantheon 2019 [[philsophynow](https://philosophynow.org/issues/135/Galileos_Error_by_Philip_Goff) "... a defence of [panpsychism](https://en.wikipedia.org/wiki/Panpsychism)"] [[book homepage](https://www.philipgoffphilosophy.com/books.html)]
 - [Hawkins](https://en.wikipedia.org/wiki/Jeff_Hawkins), Jeff. A Thousand Brains: A New Theory of Intelligence. Basic Books, 2021.   See also [GatesNotes](https://www.gatesnotes.com/Books/A-Thousand-Brains) and [Numenta](https://numenta.com/a-thousand-brains-by-jeff-hawkins)
 - [Seth](https://en.wikipedia.org/wiki/Anil_Seth), Anil. Being You: A New Science of Consciousness. Faber, 2021. See also Azeem Azhar' Exponential View Podcast "What Studying Consciousness Can Reveal about AI and the Metaverse" (with Anil Seth) [[here](https://hbr.org/2019/04/podcast-exponential-view)]
@@ -70,6 +70,8 @@ _Initiated: February 1, 2022_ (Last updated: 20220323)
 ## Relevant videos
 
 - Chalmers, David. "The Hard Problem of Consciousness", Jan 29, 2020; Lex Fridman Podcast #69 (https://www.youtube.com/watch?v=LW59lMvxmY4)
+- Ginsburg, Simona. "Animal consciousness: a philosophical and evolutionary approach"; Human Brains: Conversations #6, [humanbrains.fondazioneprada.org](https://humanbrains.fondazioneprada.org/en) Mar 16, 2022  (https://www.youtube.com/watch?v=YqMHUT5v_HU)
+- Jablonka, Eva. "Learning and the origins of consciousness"; Human Brains: Conversations #6, [humanbrains.fondazioneprada.org](https://humanbrains.fondazioneprada.org/en) Mar 16, 202 (https://www.youtube.com/watch?v=fGeASWjdqjw)
 - Seth, Anil. "Consciousness: Neuroscience, Perception and Hallucination", Dec 17, 2021 (https://www.youtube.com/watch?v=cCyapf0E5ns)
 - [Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), Yoshua. "From Deep Learning to Consciousness", Jan 6, 2020; NeurIPS 2019 Robin.ly Interview (https://www.youtube.com/watch?v=lat0jSpNQoM)
 
