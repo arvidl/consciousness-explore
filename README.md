@@ -87,7 +87,8 @@ _Initiated: February 1, 2022_ (Last updated: 20220325)
 
 ## Relevant fora
 
-- HBF Brain and Consciousness (HBF is University of Bergen's research interest group on brain and consciousness) - https://padlet.com/magdadumitru/427b4m9by7e00tpl
+- **HBF Brain and Consciousness** (HBF is University of Bergen's research interest group on brain and consciousness) - https://padlet.com/magdadumitru/427b4m9by7e00tpl
+- The Science of Consciousness (**TSC**) Conferences (since 1994) -  https://consciousness.arizona.edu/science-consciousness-conferences-1994
 
 ## Misc.
 
