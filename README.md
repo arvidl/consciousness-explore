@@ -4,7 +4,7 @@
 **Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness), [self-awareness](https://en.wikipedia.org/wiki/Self-awareness), and  consciousness in [brain](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness) and [machine](https://en.wikipedia.org/wiki/Artificial_consciousness)**
 
  
-_Initiated: February 1, 2022_ (Last updated: 20220324)
+_Initiated: February 1, 2022_ (Last updated: 20220325)
 
 **Naive credo**: (i) Make phenomena (e.g. `consciousness'), processes and values a conscious experience ("bevisstgjøre prosesser");<br> (ii) Representation learning, attention and relationships. [Inspired by [Gallileo's Error](https://www.philipgoffphilosophy.com/books.html), [The Conscious Prior](https://arxiv.org/abs/1709.08568), and ... [Could Machines Have It?](https://www.science.org/doi/10.1126/science.aan8871)] 
 
@@ -72,9 +72,11 @@ _Initiated: February 1, 2022_ (Last updated: 20220324)
 ## Relevant videos
 
 - Chalmers, David. "The Hard Problem of Consciousness", Jan 29, 2020; Lex Fridman Podcast #69 (https://www.youtube.com/watch?v=LW59lMvxmY4)
+- Chalmers, David. "The Meaning of Life in the Metaverse", Mar 23, 2022; Azeem Azhar's Exponetial View Podcast (https://hbr.org/podcast/2022/03/the-meaning-of-life-in-the-metaverse-with-david-chalmers)
 - Ginsburg, Simona. "Animal consciousness: a philosophical and evolutionary approach"; Human Brains: Conversations #6, [humanbrains.fondazioneprada.org](https://humanbrains.fondazioneprada.org/en) Mar 16, 2022  (https://www.youtube.com/watch?v=YqMHUT5v_HU)
 - Jablonka, Eva. "Learning and the origins of consciousness"; Human Brains: Conversations #6, [humanbrains.fondazioneprada.org](https://humanbrains.fondazioneprada.org/en) Mar 16, 202 (https://www.youtube.com/watch?v=fGeASWjdqjw)
 - Seth, Anil. "Consciousness: Neuroscience, Perception and Hallucination", Dec 17, 2021 (https://www.youtube.com/watch?v=cCyapf0E5ns)
+- Seth, Anil. "What Studying Consciousness Can Reveal about AI and the Metaverse", Jan 26, 2022; Azeem Azhar's Exponetial View Podcast (https://hbr.org/podcast/2022/01/what-studying-consciousness-can-reveal-about-ai-and-the-metaverse-with-anil-seth)
 - [Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), Yoshua. "From Deep Learning to Consciousness", Jan 6, 2020; NeurIPS 2019 Robin.ly Interview (https://www.youtube.com/watch?v=lat0jSpNQoM)
 
 
