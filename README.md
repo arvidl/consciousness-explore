@@ -110,4 +110,4 @@ _Initiated: February 1, 2022_ (Last updated: 20220407)
 
 - **Hemodynamic Response Modeling**  [[link](./code/HemodynamicResponseModeling)]. Wu et al. [rsHRF](https://github.com/compneuro-da/rsHRF) toolbox. Neuroimage 2021 [[paper](https://www.sciencedirect.com/science/article/pii/S1053811921008648)]
 - **[PyPhi](https://github.com/wmayner/pyphi) (library for computing integrated information (𝚽), and the associated quantities and objects)** exploration [[link](./code/PyPhi)]
-- **[NeuroTS](https://github.com/BlueBrain/NeuroTS)  (Computational generation of artificial neuronal trees based on the topology of reconstructed cells and their statistical properties) [[link](./code/NeuroTS)]
+- **[NeuroTS](https://github.com/BlueBrain/NeuroTS)  (Computational generation of artificial neuronal trees based on the topology of reconstructed cells and their statistical properties)** [[link](./code/NeuroTS)]
