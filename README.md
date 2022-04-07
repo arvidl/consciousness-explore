@@ -4,7 +4,7 @@
 **Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness), [self-awareness](https://en.wikipedia.org/wiki/Self-awareness), and  consciousness in [brain](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness) and [machine](https://en.wikipedia.org/wiki/Artificial_consciousness)**
 
  
-_Initiated: February 1, 2022_ (Last updated: 20220326)
+_Initiated: February 1, 2022_ (Last updated: 20220407)
 
 **Naive credo**: (i) Make phenomena (e.g. `consciousness'), processes and values a conscious experience ("bevisstgjøre prosesser");<br> (ii) Representation learning, attention and relationships. [Inspired by [Gallileo's Error](https://www.philipgoffphilosophy.com/books.html), [The Conscious Prior](https://arxiv.org/abs/1709.08568), and ... [Could Machines Have It?](https://www.science.org/doi/10.1126/science.aan8871)] 
 
@@ -56,6 +56,9 @@ _Initiated: February 1, 2022_ (Last updated: 20220326)
 ### Fractals 
  - https://en.wikipedia.org/wiki/Fractal
  - Luppia AI, Craiga MM, Coppolaa P et al. Preserved fractal character of structural brain networks is associated with covert consciousness after severe brain injury. NeuroImage: Clinical 2021;30:102682 [[link](https://www.sciencedirect.com/science/article/pii/S2213158221001261)]  (using [box-counting](https://en.wikipedia.org/wiki/Box_counting)  [[code for 3D](https://github.com/ChatzigeorgiouGroup/FractalDimension)])
+
+### Building artificial neurons with mathematics
+- Kanari, Lida; ...; [Markram](https://en.wikipedia.org/wiki/Henry_Markram), Henry. Computational synthesis of cortical dendritic morphologies. Cell Reports 2022;39(1):110586 [[link](https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00330-8)]. Code repository for the topological neuron synthesis algorithm [[NeuroTS](https://github.com/BlueBrain/NeuroTS)]
 
 ## Relevant books
 
