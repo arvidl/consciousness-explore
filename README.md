@@ -102,7 +102,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220407)
 - Lundervold, Arvid. On consciousness, resting state fMRI, and neurodynamics. Nonlinear Biomedical Physics 2010;4(S9) [[link](https://nonlinearbiomedphys.biomedcentral.com/articles/10.1186/1753-4631-4-S1-S9)]
 - Lundervold, Alexander S and Lundervold, Arvid. An overview of deep learning in medical imaging focusing on MRI. Zeitschrift fur Medizinische Physik 2019;29(2):102-127. [[link](https://www.sciencedirect.com/science/article/pii/S0939388918301181)]  See also https://www.dgmp.de/de-DE/307/autorenpreis-der-zmp
 - Lundervold, Arvid. Elements of consciousness - some eclectic perspectives. [HBF](https://padlet.com/magdadumitru/427b4m9by7e00tpl) seminar, March 24, 2022  [[link to slides](https://docs.google.com/presentation/d/e/2PACX-1vTvLfxaHHsnOLUBGkaoLNMvAhtMdHCUYkaTTq-4yKD1LtOGvOoewnWiY8Ub6o4trVWeend1ghVZlzBn/pub?start=false&loop=false&delayms=3000)]
-
+- Torgerson, Carinna et al. The DTI connectivity of the human claustrum. Human Brain Mapping 2015;36(3):827-838 [[link](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.22667)] *... These results illustrate that the claustrum is ideally located within the human central nervous system (CNS) connectome to serve as the putative “gate keeper” of neural information for consciousness awareness.*
 
 
 ## Topics with code 
