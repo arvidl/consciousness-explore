@@ -1,0 +1,32 @@
+{
+  "apical": {},
+  "axon": {},
+  "basal": {
+    "branching_method": "bio_oriented",
+    "growth_method": "tmd",
+    "metric": "path_distances",
+    "modify": null,
+    "orientation": null,
+    "radius": 0.3,
+    "randomness": 0.15,
+    "step_size": {
+      "norm": {
+        "mean": 1.0,
+        "std": 0.2
+      }
+    },
+    "targeting": 0.12,
+    "tree_type": 3
+  },
+  "diameter_params": {
+    "method": "default"
+  },
+  "grow_types": [
+    "basal"
+  ],
+  "origin": [
+    0.0,
+    0.0,
+    0.0
+  ]
+}
