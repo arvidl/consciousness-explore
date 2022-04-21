@@ -49,6 +49,11 @@ _Initiated: February 1, 2022_ (Last updated: 20220407)
 
 - Jabr, Ferris. The Social Life of Forests: Trees appear to communicate and cooperate through subterranean networks of fungi. What are they sharing with one another? The New York Times Magazine, December 2, 2020  [[link](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html)]
 
+### The [quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
+
+- [Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner), Eugene.  Remarks on the Mind-Body Question, Symmetries and Reflections.
+Indiana University Press, Bloomington, Indiana, 1967, pp.171-184 [[pdf](https://www.informationphilosopher.com/solutions/scientists/wigner/Wigner_Remarks.pdf)]. Also in: Philosophical Reflections and Syntheses, Berlin, Heidelberg: Springer Berlin Heidelberg 1995:247–260.
+
 ### Orchestrated objective reduction ([Orch OR](https://en.wikipedia.org/wiki/Orchestrated_objective_reduction))
 
 - [Penrose](https://en.wikipedia.org/wiki/Roger_Penrose), Roger. Shadows of the Mind: A Search for the Missing Science of Consciousness. Oxford University Press, 1994. See [[here](https://en.wikipedia.org/wiki/Shadows_of_the_Mind)] and [[here](https://www.youtube.com/watch?v=Co8v5-0znf0)]
