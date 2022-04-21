@@ -52,7 +52,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220421)
 ### The [quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
 
 - [Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner), Eugene.  Remarks on the Mind-Body Question, Symmetries and Reflections.
-Indiana University Press, Bloomington, Indiana, 1967, pp.171-184 [[pdf](https://www.informationphilosopher.com/solutions/scientists/wigner/Wigner_Remarks.pdf)]. Also in: Philosophical Reflections and Syntheses, Berlin, Heidelberg: Springer Berlin Heidelberg 1995:247–260.
+Indiana University Press, Bloomington, Indiana, 1967, pp.171-184 [[pdf](https://www.informationphilosopher.com/solutions/scientists/wigner/Wigner_Remarks.pdf)]. Also in: Philosophical Reflections and Syntheses, Berlin, Heidelberg: Springer Berlin Heidelberg 1995:247–260. E. Wigner is famous for his seminal analysis and insight expressed in his 1960 [CPA paper](https://onlinelibrary.wiley.com/doi/10.1002/cpa.3160130102) "[The Unreasonable Effectiveness of Mathematics in the Natural Sciences](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences)"
 
 ### Orchestrated objective reduction ([Orch OR](https://en.wikipedia.org/wiki/Orchestrated_objective_reduction))
 
