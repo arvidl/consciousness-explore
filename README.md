@@ -12,8 +12,8 @@ _Initiated: February 1, 2022_ (Last updated: 20220505)
 ## General links:
 
 -  Public repositories matching this topic... (https://github.com/topics/consciousness)
--  [Seth](https://en.wikipedia.org/wiki/Anil_Seth), Anil K.; [Bayne](https://philpeople.org/profiles/tim-bayne), Tim. Theories of consciousness. Nature Reviews Neuroscience, May 03 2022. [[link1](https://www.nature.com/articles/s41583-022-00587-4)] [
-[[link2](https://rdcu.be/cML2D)]
+-  [Seth](https://en.wikipedia.org/wiki/Anil_Seth), Anil K.; [Bayne](https://philpeople.org/profiles/tim-bayne), Tim. Theories of consciousness. Nature Reviews Neuroscience, May 03 2022. [[link](https://www.nature.com/articles/s41583-022-00587-4)] [
+[[pdf](https://rdcu.be/cML2D)]
 
 ## Computational consciousness
 
