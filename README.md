@@ -4,7 +4,7 @@
 **Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness), [self-awareness](https://en.wikipedia.org/wiki/Self-awareness), and  consciousness in [brain](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness) and [machine](https://en.wikipedia.org/wiki/Artificial_consciousness)**
 
  
-_Initiated: February 1, 2022_ (Last updated: 20220505)
+_Initiated: February 1, 2022_ (Last updated: 20220601)
 
 **Naive credo**: (i) Make phenomena (e.g. `consciousness'), processes and values a conscious experience ("bevisstgjøre prosesser");<br> (ii) Representation learning, attention and relationships. [Inspired by [Gallileo's Error](https://www.philipgoffphilosophy.com/books.html), [The Conscious Prior](https://arxiv.org/abs/1709.08568), and ... [Could Machines Have It?](https://www.science.org/doi/10.1126/science.aan8871)] 
 
@@ -117,3 +117,4 @@ Indiana University Press, Bloomington, Indiana, 1967, pp.171-184 [[pdf](https://
 - **Hemodynamic Response Modeling**  [[link](./code/HemodynamicResponseModeling)]. Wu et al. [rsHRF](https://github.com/compneuro-da/rsHRF) toolbox. Neuroimage 2021 [[paper](https://www.sciencedirect.com/science/article/pii/S1053811921008648)]
 - **[PyPhi](https://github.com/wmayner/pyphi) (library for computing integrated information (𝚽), and the associated quantities and objects)** exploration [[link](./code/PyPhi)]
 - **[NeuroTS](https://github.com/BlueBrain/NeuroTS)  (Computational generation of artificial neuronal trees based on the topology of reconstructed cells and their statistical properties)** [[link](./code/NeuroTS)]
+- **[Animal Decision Making](https://bio.uib.no/te/research/decisions.php)** and **[The AHA model](http://ahamodel.uib.no)** at the Theoretical Ecology Group, University of Bergen.  Code: [HETOOLS](https://github.com/sbudaev/HEDTOOLS) and [AHA-R1](https://github.com/sbudaev/AHA-R1).
