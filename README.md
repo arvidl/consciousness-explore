@@ -26,7 +26,7 @@ _Initiated: February 1, 2022_ (Last updated: 20220601)
 
 ### Attention Schema Theory of Consciousness ([AST](https://en.wikipedia.org/wiki/Attention_schema_theory))
 - Wilterson, Andrew I.; Kemper, Casey M.; Kim, Noah; Webb, Taylor W.; Reblando, Alexandra M. W.; Graziano, Michael S. A. Attention Control and the Attention Schema Theory of Consciousness. Progress in Neurobiology 2020;195:101844 [[link](https://www.sciencedirect.com/science/article/pii/S030100822030099X)]
-- [Graziano]((https://en.wikipedia.org/wiki/Michael_Graziano), Michael S. A. Understanding consciousness. Brain 2021;144(5):1281-1283 [[link](https://doi.org/10.1093/brain/awab046)]
+- [Graziano](https://en.wikipedia.org/wiki/Michael_Graziano), Michael S. A. Understanding consciousness. Brain 2021;144(5):1281-1283 [[link](https://doi.org/10.1093/brain/awab046)]
 
 
 ### Consciousness and deep learning
