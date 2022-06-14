@@ -4,7 +4,7 @@
 **Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness), [self-awareness](https://en.wikipedia.org/wiki/Self-awareness), and  consciousness in [brain](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness) and [machine](https://en.wikipedia.org/wiki/Artificial_consciousness)**
 
  
-_Initiated: February 1, 2022_ (Last updated: 2022-06-01)
+_Initiated: February 1, 2022_ (Last updated: 2022-06-14)
 
 **Naive credo**: (i) Make phenomena, processes and values a conscious experience ("bevisstgjøre prosesser");<br> (ii) Representation learning, attention, and relationships. [Inspired by [Gallileo's Error](https://www.philipgoffphilosophy.com/books.html), [The Conscious Prior](https://arxiv.org/abs/1709.08568), and ... [Could Machines Have It?](https://www.science.org/doi/10.1126/science.aan8871)] 
 
@@ -66,6 +66,7 @@ Indiana University Press, Bloomington, Indiana, 1967, pp.171-184 [[pdf](https://
 ### Orchestrated objective reduction ([Orch OR](https://en.wikipedia.org/wiki/Orchestrated_objective_reduction))
 
 - [Penrose](https://en.wikipedia.org/wiki/Roger_Penrose), Roger. Shadows of the Mind: A Search for the Missing Science of Consciousness. Oxford University Press, 1994. See [[here](https://en.wikipedia.org/wiki/Shadows_of_the_Mind)] and [[here](https://www.youtube.com/watch?v=Co8v5-0znf0)]
+- Derakhshani, Maaneli; Diósi, Lajos; Laubenstein, Matthias; Piscicchia, Kristian; Curceanu, Catalina. At the crossroad of the search for spontaneous radiation and the Orch OR consciousness theory. Physics of Life Reviews 2022;42:8-14 [[link](https://www.sciencedirect.com/science/article/abs/pii/S1571064522000197)]
 
 ### Fractals 
  - https://en.wikipedia.org/wiki/Fractal
