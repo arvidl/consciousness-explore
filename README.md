@@ -66,7 +66,7 @@ Indiana University Press, Bloomington, Indiana, 1967, pp.171-184 [[pdf](https://
 ### Orchestrated objective reduction ([Orch OR](https://en.wikipedia.org/wiki/Orchestrated_objective_reduction))
 
 - [Penrose](https://en.wikipedia.org/wiki/Roger_Penrose), Roger. Shadows of the Mind: A Search for the Missing Science of Consciousness. Oxford University Press, 1994. See [[here](https://en.wikipedia.org/wiki/Shadows_of_the_Mind)] and [[here](https://www.youtube.com/watch?v=Co8v5-0znf0)]
-- Derakhshani, Maaneli; Diósi, Lajos; Laubenstein, Matthias; Piscicchia, Kristian; Curceanu, Catalina. At the crossroad of the search for spontaneous radiation and the Orch OR consciousness theory. Physics of Life Reviews 2022;42:8-14 [[link](https://www.sciencedirect.com/science/article/abs/pii/S1571064522000197)]
+- Derakhshani, Maaneli; Diósi, Lajos; Laubenstein, Matthias; Piscicchia, Kristian; Curceanu, Catalina. At the crossroad of the search for spontaneous radiation and the Orch OR consciousness theory. Physics of Life Reviews 2022;42:8-14 [[link](https://www.sciencedirect.com/science/article/abs/pii/S1571064522000197)]. See also [Collapsing a leading theory for the quantum origin of consciousness](https://www.eurekalert.org/news-releases/955651).
 
 ### Fractals 
  - https://en.wikipedia.org/wiki/Fractal
