@@ -26,7 +26,7 @@ _Initiated: February 1, 2022_ (Last updated: 2023-02-06)
 
 ### Entropy
 - Gilson, Matthieu; Tagliazucchi, Enzo; Cofré, Rodrigo. Entropy production of Multivariate Ornstein- Uhlenbeck processes correlates with consciousness levels in the human brain. To appear in Physical Review E 2023 [[arXiv](https://arxiv.org/abs/2207.05197)]
-- Padavic-Callaghan, Karmela. Your brain produces more entropy while you are awake. New Scientist 8 February 2023 [[link](https://www.newscientist.com/article/2358193-your-brain-produces-more-entropy-while-you-are-awake)]. [[Comments](refs/You_brain_produces_more_entropy_while_you_are_awake_New_Scientist_20230208.pdf)] by A.L. 2023-02-06.
+- Padavic-Callaghan, Karmela. Your brain produces more entropy while you are awake. New Scientist 8 February 2023 [[link](https://www.newscientist.com/article/2358193-your-brain-produces-more-entropy-while-you-are-awake)]. [[Comments](https://github.com/arvidl/consciousness-explore/blob/main/refs/You_brain_produces_more_entropy_while_you_are_awake_New_Scientist_20230208.pdf)] by A.L. 2023-02-06.
 
 ### Attention Schema Theory of Consciousness ([AST](https://en.wikipedia.org/wiki/Attention_schema_theory))
 - [Graziano](https://en.wikipedia.org/wiki/Michael_Graziano), Michael S. A. Understanding consciousness. Brain 2021;144(5):1281-1283 [[link](https://doi.org/10.1093/brain/awab046)]
