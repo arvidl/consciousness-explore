@@ -36,7 +36,7 @@ _Initiated: February 1, 2022_ (Last updated: 2023-02-09)
 
 
 ### Consciousness and deep learning
-- Curtis, Benjamin; Savulescu, Julian. Is Google’s LaMDA conscious? A philosopher’s view. The Conversation 2022, June 15 [[link](https://theconversation.com/is-googles-lamda-conscious-a-philosophers-view-184987)]. Se also [Is LaMDA Sentient?](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917) — an Interview.
+- Curtis, Benjamin; Savulescu, Julian. Is Google’s LaMDA conscious? A philosopher’s view. The Conversation 2022, June 15 [[link](https://theconversation.com/is-googles-lamda-conscious-a-philosophers-view-184987)]. Se also [Is LaMDA Sentient?](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917) — an Interview. (2022, June 11 by [Blake Lemoine](https://www.linkedin.com/in/blake-lemoine-5b53b652))
 - [Dehaene](https://no.wikipedia.org/wiki/Stanislas_Dehaene), Stanislas; Lau, Hakwan; Kouider, Sid. What is consciousness, and could machines have it? Science 2017;358(6362):486-492. [[link](https://www.science.org/doi/10.1126/science.aan8871)]
 - Krauss, Patrick and Maier, Andreas. Will We Ever Have Conscious Machines? Front Comput Neurosci, December 22, 2020 [[link](https://www.frontiersin.org/articles/10.3389/fncom.2020.556544/full)]
 - Langdon, Angela; Botvinick, Matthew; Nakahara, Hiroyuki et al. Meta-learning, social cognition and consciousness in brains and machines. Neural Networks 2022;145:80-89. [[link](https://www.sciencedirect.com/science/article/pii/S0893608021003956)]
