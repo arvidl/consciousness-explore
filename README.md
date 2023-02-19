@@ -6,7 +6,7 @@
  
 _Initiated: February 1, 2022_ (Last updated: 2023-02-19)
 
-**Credo**: (i) Make phenomena, processes and values a conscious experience ("bevisstgjøre prosesser");<br> (ii) Representation learning, attention, and relationships. [Inspired by [Gallileo's Error](https://www.philipgoffphilosophy.com/books.html), [The Conscious Prior](https://arxiv.org/abs/1709.08568), and ... [Could Machines Have It?](https://www.science.org/doi/10.1126/science.aan8871)] 
+**Aims:**<br>(i) Make phenomena, processes and values a conscious experience ("bevisstgjøre prosesser");<br> (ii) Representation learning, attention, and relationships (in a wide sense). [Inspired by [Gallileo's Error](https://www.philipgoffphilosophy.com/books.html), [The Conscious Prior](https://arxiv.org/abs/1709.08568), and ... [Could Machines Have It?](https://www.science.org/doi/10.1126/science.aan8871)] 
 
 
 ## General links:
