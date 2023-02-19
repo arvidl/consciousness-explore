@@ -114,8 +114,8 @@ Indiana University Press, Bloomington, Indiana, 1967, pp.171-184 [[pdf](https://
 
 ### HBF
 - **HBF Brain and Consciousness** (HBF is University of Bergen's research interest group on brain and consciousness) - https://padlet.com/magdadumitru/427b4m9by7e00tpl
--- Lundervold, Arvid. Representation learning and Consciousness with a view to generative AI. [HBF](https://padlet.com/magdadumitru/427b4m9by7e00tpl) seminar, February 23, 2023  [[link to slides](https://docs.google.com/presentation/d/e/2PACX-1vRvtQnpOaO8L26ywjpNo4cJOSuFQiqCUq92xLqb_VP1TjDCLGa9u3b1ewMzwI6FyzPRuVJKHkddr2Vt/pub?start=false&loop=false&delayms=3000)]
--- Lundervold, Arvid. Elements of consciousness - some eclectic perspectives. [HBF](https://padlet.com/magdadumitru/427b4m9by7e00tpl) seminar, March 24, 2022  [[link to slides](https://docs.google.com/presentation/d/e/2PACX-1vTvLfxaHHsnOLUBGkaoLNMvAhtMdHCUYkaTTq-4yKD1LtOGvOoewnWiY8Ub6o4trVWeend1ghVZlzBn/pub?start=false&loop=false&delayms=3000)]
+   - Lundervold, Arvid. Representation learning and Consciousness with a view to generative AI. [HBF](https://padlet.com/magdadumitru/427b4m9by7e00tpl) seminar, February 23, 2023  [[link to slides](https://docs.google.com/presentation/d/e/2PACX-1vRvtQnpOaO8L26ywjpNo4cJOSuFQiqCUq92xLqb_VP1TjDCLGa9u3b1ewMzwI6FyzPRuVJKHkddr2Vt/pub?start=false&loop=false&delayms=3000)]
+   - Lundervold, Arvid. Elements of consciousness - some eclectic perspectives. [HBF](https://padlet.com/magdadumitru/427b4m9by7e00tpl) seminar, March 24, 2022  [[link to slides](https://docs.google.com/presentation/d/e/2PACX-1vTvLfxaHHsnOLUBGkaoLNMvAhtMdHCUYkaTTq-4yKD1LtOGvOoewnWiY8Ub6o4trVWeend1ghVZlzBn/pub?start=false&loop=false&delayms=3000)]
 
 ### Others
 - The Science of Consciousness (**TSC**) Conferences (since 1994) -  https://consciousness.arizona.edu/science-consciousness-conferences-1994
