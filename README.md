@@ -8,7 +8,7 @@ _Initiated: February 1, 2022_ (Last updated: 2023-12-01)
 
 **Aims:**<br>(i) Make phenomena, processes and values a conscious experience ("bevisstgjøre prosesser");<br> (ii) Representation learning, attention, and relationships (in a wide sense). [Inspired by [Gallileo's Error](https://www.philipgoffphilosophy.com/books.html), [The Conscious Prior](https://arxiv.org/abs/1709.08568), and ... [Could Machines Have It?](https://www.science.org/doi/10.1126/science.aan8871)] 
 
-## See also "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" A copilot for exploring consciousness in animals and machines. Powered by GTP-4 with Browsing, Advanced Data Ananlysis, and DALLE.E built in.**  
+## See also "[Mind Explorer](https://chat.openai.com/g/g-0Xyu4evBZ-mind-explorer)" A copilot for exploring consciousness in animals and machines. Powered by GTP-4 with Browsing, Advanced Data Ananlysis, and DALLE.E built in.  
 
 ## General links:
 
