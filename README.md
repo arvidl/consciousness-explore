@@ -4,7 +4,7 @@
 **Explorations of the concept of [consciousness](https://en.wikipedia.org/wiki/Consciousness), [self-awareness](https://en.wikipedia.org/wiki/Self-awareness), and  consciousness in [brain](https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness) and [machine](https://en.wikipedia.org/wiki/Artificial_consciousness)**
 
  
-_Initiated: February 1, 2022_ (Last updated: 2023-12-01)
+_Initiated: February 1, 2022_ (Last updated: 2025-05-13)
 
 **Aims:**<br>(i) Make phenomena, processes and values a conscious experience ("bevisstgjøre prosesser");<br> (ii) Representation learning, attention, and relationships (in a wide sense). [Inspired by [Gallileo's Error](https://www.philipgoffphilosophy.com/books.html), [The Conscious Prior](https://arxiv.org/abs/1709.08568), and ... [Could Machines Have It?](https://www.science.org/doi/10.1126/science.aan8871)] 
 
@@ -53,6 +53,12 @@ _Initiated: February 1, 2022_ (Last updated: 2023-12-01)
 
 - Chen, Yali and Zhang, Jun. How Energy Supports Our Brain to Yield Consciousness: Insights From Neuroimaging Based on the Neuroenergetics Hypothesis. Front Syst Neurosci 2021; 06 July [[link](https://www.frontiersin.org/articles/10.3389/fnsys.2021.648860/full)] [[pdf](https://www.frontiersin.org/articles/10.3389/fnsys.2021.648860/pdf)]
 - Ito, Taku. Modeling hemodynamic response functions of the BOLD signal using Windkessel-Balloon model (https://github.com/ito-takuya/HemodynamicResponseModeling). Based on Friston, Karl J; Harrison, L; Penny W. Dynamic causal modeling. Neuroimage 2003;19(4):1273-12302  [[link](https://pubmed.ncbi.nlm.nih.gov/12948688)] [[pdf](https://www.fil.ion.ucl.ac.uk/~karl/Dynamic%20causal%20modelling.pdf)]
+
+
+### Functionalist Emergentist Materialism
+
+- D’Angiulli, Amadeo and Sidhu, Kiranpreet. Functionalist Emergentist Materialism: A Pragmatic Framework for Consciousness. Imagination, Cognition and Personality: Consciousness in Theory, Research, and Clinical Practice 2025, Vol. 44(4) 387–415. [[link](https://journals.sagepub.com/doi/full/10.1177/02762366251316255)] [[pdf](https://journals.sagepub.com/doi/reader/10.1177/02762366251316255)]
+
 
 ## Esoteric
 
