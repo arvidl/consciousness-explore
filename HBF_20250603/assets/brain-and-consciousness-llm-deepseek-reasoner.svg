@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" style="background:#0f0c29">
+  <!-- Brain Base -->
+  <path d="M400,250 Q350,200 300,220 Q250,240 220,290 Q200,340 230,380 Q260,420 320,430 Q380,440 420,400 Q460,360 470,300 Q460,240 400,250 Z"
+        fill="#2c1b47" stroke="#5d3f6a" stroke-width="4"/>
+
+  <!-- Brain Details -->
+  <path d="M320,240 Q340,220 360,230" stroke="#8d6bbd" stroke-width="3" fill="none"/>
+  <path d="M340,290 Q330,270 350,260" stroke="#8d6bbd" stroke-width="3" fill="none"/>
+  <path d="M380,320 Q370,300 390,290" stroke="#8d6bbd" stroke-width="3" fill="none"/>
+  <path d="M420,310 Q410,290 430,280" stroke="#8d6bbd" stroke-width="3" fill="none"/>
+  <path d="M460,270 Q450,250 470,240" stroke="#8d6bbd" stroke-width="3" fill="none"/>
+
+  <!-- Consciousness Waves -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M400,200 Q350,150 300,170" stroke="url(#waveGradient)" stroke-width="2" stroke-opacity="0.6"/>
+    <path d="M400,180 Q320,120 250,160" stroke="url(#waveGradient)" stroke-width="2" stroke-opacity="0.5"/>
+    <path d="M400,160 Q300,80 200,140" stroke="url(#waveGradient)" stroke-width="2" stroke-opacity="0.4"/>
+    <path d="M400,220 Q450,180 500,200" stroke="url(#waveGradient)" stroke-width="2" stroke-opacity="0.6"/>
+    <path d="M400,240 Q480,200 580,230" stroke="url(#waveGradient)" stroke-width="2" stroke-opacity="0.5"/>
+  </g>
+
+  <!-- Glowing Particles -->
+  <g fill="url(#particleGradient)" filter="url(#glow)">
+    <circle cx="280" cy="180" r="4"/>
+    <circle cx="230" cy="220" r="3"/>
+    <circle cx="350" cy="150" r="5"/>
+    <circle cx="500" cy="170" r="4"/>
+    <circle cx="550" cy="210" r="3"/>
+    <circle cx="450" cy="140" r="5"/>
+    <circle cx="300" cy="130" r="3"/>
+    <circle cx="380" cy="100" r="4"/>
+    <circle cx="200" cy="170" r="5"/>
+  </g>
+
+  <!-- Core Light -->
+  <circle cx="400" cy="300" r="30" fill="url(#coreGradient)" filter="url(#blur)"/>
+
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff00cc"/>
+      <stop offset="100%" stop-color="#00ccff"/>
+    </linearGradient>
+
+    <radialGradient id="particleGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#00ffff" stop-opacity="0.8"/>
+    </radialGradient>
+
+    <radialGradient id="coreGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#9d4edd" stop-opacity="0.2"/>
+    </radialGradient>
+
+    <!-- Filters -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 20 -8"/>
+    </filter>
+
+    <filter id="blur">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8"/>
+    </filter>
+  </defs>
+</svg>
